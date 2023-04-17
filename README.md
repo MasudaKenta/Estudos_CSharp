@@ -1,26 +1,15 @@
 NOME: Bordando em Ponto Cruz
 Dada uma data no seguinte formato "mm.dd.yyyy" e a seguinte formatação de números:
 
-|   XX   |    XX  |   XX   |  XXX   |  X  X  |  XXXX  |   XXX  |  XXXX  |   XX   |   XX  |     |
-|  X  X  |   X X  |  X  X  |     X  |  X  X  |  X     |  X     |     X  |  X  X  |  X  X |     |
-|  X  X  |  X  X  |     X  |     X  |  X  X  |  X     |  X     |     X  |  X  X  |  X  X |     |
-|  X  X  |     X  |    X   |   XX   |  XXXX  |  XXX   |  XXX   |    X   |   XX   |   XXX |     |
-|  X  X  |     X  |   X    |     X  |     X  |     X  |  X  X  |   X    |  X  X  |     X |     |
-|  X  X  |     X  |  X     |     X  |     X  |     X  |  X  X  |  X     |  X  X  |     X |  X  |
-|   XX   |     X  |  XXXX  |  XXX   |     X  |  XXX   |   XX   |  X     |   XX   |  XXX  |  X  |
+![image](https://user-images.githubusercontent.com/114660028/232585312-61ddbf54-9991-4cd3-b26f-7b392b2f1eb8.png)
 
 Imprima a data com a formatação.
 OBS: deve haver dois espaçoes apenas entre os números e pontos, o final de cada linha não deve conter espaços.
 
 INPUT:
-08.09.2023
+![image](https://user-images.githubusercontent.com/114660028/232585897-02ea12c1-3d7d-4750-9087-3e5094abf94a.png)
 
 OUTPUT:
- XX    XX       XX    XX       XX    XX    XX    XXX
-X  X  X  X     X  X  X  X     X  X  X  X  X  X  X
-X  X  X  X     X  X  X  X        X  X  X  X  X  X
-X  X   XX      X  X   XXX       X   X  X  X  X  XXX
-X  X  X  X     X  X     X      X    X  X  X  X  X  X
-X  X  X  X  X  X  X     X  X  X     X  X  X  X  X  X
- XX    XX   X   XX   XXX   X  XXXX   XX    XX    XX
+![image](https://user-images.githubusercontent.com/114660028/232585832-ff624e2c-7544-423e-994f-8bbd5dab16de.png)
+
 
