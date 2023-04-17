@@ -1,9 +1,11 @@
 NOME: Bordando em Ponto Cruz
+<br>
 Dada uma data no seguinte formato "mm.dd.yyyy" e a seguinte formatação de números:
 
 ![image](https://user-images.githubusercontent.com/114660028/232585312-61ddbf54-9991-4cd3-b26f-7b392b2f1eb8.png)
 
 Imprima a data com a formatação.
+<br>
 OBS: deve haver dois espaçoes apenas entre os números e pontos, o final de cada linha não deve conter espaços.
 
 INPUT:
