@@ -33,9 +33,9 @@ São Paulo
 Moderna
 <br><br>
 <b>OUTPUT:</b>
-<br><br>
-MASUDA, G. K. Matemática. 2 ed. São Paulo: Moderna, 2023.
 <br>
+MASUDA, G. K. Matemática. 2 ed. São Paulo: Moderna, 2023.
+<br><br>
 <b>2° CASO: até 3 autores</b>
 <br>
 <b>INPUT:</b>
@@ -51,11 +51,11 @@ Matemática
 São Paulo
 <br>
 Moderna
-<br><br>
-<b>OUTPUT:</b>
-<br><br>
-MASUDA, G. K.; MERINO, C. A.; VASCONCELOS, J. P. M. Matemática. 2 ed. São Paulo: Moderna, 2023.
 <br>
+<b>OUTPUT:</b>
+<br>
+MASUDA, G. K.; MERINO, C. A.; VASCONCELOS, J. P. M. Matemática. 2 ed. São Paulo: Moderna, 2023.
+<br><br>
 <b>3° CASO: mais de 3 autores</b>
 <b>INPUT:</b>
 <br>
@@ -70,7 +70,7 @@ Matemática
 São Paulo
 <br>
 Moderna
-<br><br>
+<br>
 <b>OUTPUT:</b>
 <br>
 MASUDA, G. K. et al. Matemática. 2 ed. São Paulo: Moderna, 2023.
