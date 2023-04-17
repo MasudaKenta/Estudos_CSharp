@@ -51,7 +51,7 @@ Matemática
 São Paulo
 <br>
 Moderna
-<br>
+<br><br>
 <b>OUTPUT:</b>
 <br>
 MASUDA, G. K.; MERINO, C. A.; VASCONCELOS, J. P. M. Matemática. 2 ed. São Paulo: Moderna, 2023.
@@ -71,7 +71,7 @@ Matemática
 São Paulo
 <br>
 Moderna
-<br>
+<br><br>
 <b>OUTPUT:</b>
 <br>
 MASUDA, G. K. et al. Matemática. 2 ed. São Paulo: Moderna, 2023.
