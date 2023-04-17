@@ -57,6 +57,7 @@ Moderna
 MASUDA, G. K.; MERINO, C. A.; VASCONCELOS, J. P. M. Matemática. 2 ed. São Paulo: Moderna, 2023.
 <br><br>
 <b>3° CASO: mais de 3 autores</b>
+<br>
 <b>INPUT:</b>
 <br>
 Guilherme Kenta Masuda,Caio Aquilino Merino,João Pedro de Moura Vasconcelos,Gustavo Kenzo Masuda
