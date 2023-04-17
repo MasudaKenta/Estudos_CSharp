@@ -18,7 +18,8 @@ Após feito o imput da informações, o problema pede como saída, as informaç�
 <br>
 <b>1° CASO: apenas um autor</b>
 <br>
-IMPUT:
+INPUT:
+<br><br>
 Guilherme Kenta Masuda
 <br>
 Matemática
@@ -32,13 +33,13 @@ São Paulo
 Moderna
 <br>
 OUTPUT
-<br>
+<br><br>
 MASUDA, G. K. Matemática. 2 ed. São Paulo: Moderna, 2023.
 <br>
 <b>2° CASO: até 3 autores</b>
 <br>
-INPUT
-<br>
+INPUT:
+<br><br>
 Guilherme Kenta Masuda,Caio Aquilino Merino,João Pedro de Moura Vasconcelos
 <br>
 Matemática
@@ -52,7 +53,7 @@ São Paulo
 Moderna
 <br>
 OUTPUT
-<br>
+<br><br>
 <b>3° CASO: mais de 3 autores</b>
 <br>
 Guilherme Kenta Masuda,Caio Aquilino Merino,João Pedro de Moura Vasconcelos,Gustavo Kenzo Masuda
@@ -67,7 +68,9 @@ São Paulo
 <br>
 Moderna
 <br>
-
+OUTPUT
+<br><br>
+MASUDA, G. K. et al. Matemática. 2 ed. São Paulo: Moderna, 2023.
 
 
 
