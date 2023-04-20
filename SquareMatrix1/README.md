@@ -7,6 +7,6 @@ The input consists of several integers numbers, one per line, corresponding to o
 <h3><b>Output</b></h3>
 For each integer number of input, print the corresponding array according to the example. (the values ​​of the arrays must be formatted in a field of size 3 right justified and separated by a space. None space must be printed after the last character of each row of the array. A blank line must be printed after each array.
 <br>
-![image](https://user-images.githubusercontent.com/114660028/233504279-72fec0f1-1df9-40ec-a472-9c5baad1d640.png)
+![image](https://user-images.githubusercontent.com/114660028/233504600-8db265b2-a5d7-4658-b17e-12b03cbe6e4f.png)
 <br>
-![image](https://user-images.githubusercontent.com/114660028/233504354-d6806c09-ef91-4e2e-aba3-e9df6cd490db.png)
+![image](https://user-images.githubusercontent.com/114660028/233504615-d9c4b784-9a1b-4abb-bc73-37f6a08ba32b.png)
