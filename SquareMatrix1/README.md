@@ -4,6 +4,7 @@ Write a program that read an integer number N (0 ≤ N ≤ 100) that correspond 
 <br>
 <h3><b>Input</b></h3>
 The input consists of several integers numbers, one per line, corresponding to orders from arrays to be built. The end of input is indicated by zero (0).
+<br>
 ![image](https://user-images.githubusercontent.com/114660028/233504600-8db265b2-a5d7-4658-b17e-12b03cbe6e4f.png)
 <br>
 <h3><b>Output</b></h3>
