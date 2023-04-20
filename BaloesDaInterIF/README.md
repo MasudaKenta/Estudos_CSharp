@@ -4,7 +4,7 @@ O problema pede um numero inteiro como entrada, indicando a quantidade de balõe
 <br>
 A dificuldade do exercício está em contar quantas flechas são necessárias para estourar todos os balões(sabendo que uma flecha que atinge um balão desce um de altura e segue infinitamente até encontrar outro balão) sem estourar o timelimit de 2s.
 <br>
-<b>INPUT</>
+<b>INPUT</b>
 <br>
 ![image](https://user-images.githubusercontent.com/114660028/233230213-75bb5d14-0a9e-4101-b59a-1db3161fbb80.png)
 <br>
@@ -12,3 +12,6 @@ A dificuldade do exercício está em contar quantas flechas são necessárias pa
 <br>
 ![image](https://user-images.githubusercontent.com/114660028/233230307-a0cc2147-942b-4962-b647-a1e60226ce15.png)
 <br>
+IMAGEM DO PROBLEMA
+<br>
+![image](https://user-images.githubusercontent.com/114660028/233231587-8b2cdf5a-35fc-4059-bb24-e121964c5dd1.png)
