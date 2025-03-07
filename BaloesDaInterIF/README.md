@@ -8,9 +8,7 @@
 <b>OUTPUT</b>
 <img src="https://user-images.githubusercontent.com/114660028/233230307-a0cc2147-942b-4962-b647-a1e60226ce15.png" width="100" heigth="200">
 IMAGEM DO PROBLEMA
-<br>
-![image](https://user-images.githubusercontent.com/114660028/233231587-8b2cdf5a-35fc-4059-bb24-e121964c5dd1.png)
-<br>
+<img src="https://user-images.githubusercontent.com/114660028/233231587-8b2cdf5a-35fc-4059-bb24-e121964c5dd1.png" width="100" heigth="200">
 A primeira flecha estoura o primeiro balão de altura 1, mas não estoura mais nenhum outro, já que não há nenhum balão 1 posição abaixo dele
 <br>
 ![image](https://user-images.githubusercontent.com/114660028/233231977-f5277f43-e849-4175-948d-37512c621ce8.png)
