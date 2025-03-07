@@ -8,7 +8,7 @@
 
 ### OUTPUT
 
-IMAGEM DO PROBLEMA
+## Explicação do problema com imagens
 
 * A primeira flecha estoura o primeiro balão de altura 1, mas não estoura mais nenhum outro, já que não há nenhum balão 1 posição abaixo dele
 
