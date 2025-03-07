@@ -5,10 +5,14 @@
 * A dificuldade do exercício está em contar quantas flechas são necessárias para estourar todos os balões(sabendo que uma flecha que atinge um balão desce um de altura e segue infinitamente até encontrar outro balão) sem estourar o timelimit de 2s.
   
 ### INPUT
+5
+<br>
+1 2 3 4 5
 
 ### OUTPUT
+5
 
-## Explicação do problema com imagens
+## Explicação do problema 
 
 * A primeira flecha estoura o primeiro balão de altura 1, mas não estoura mais nenhum outro, já que não há nenhum balão 1 posição abaixo dele
 
