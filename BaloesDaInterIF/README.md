@@ -6,7 +6,7 @@
 <br>
 <b>INPUT</b>
 <br>
-![image](https://user-images.githubusercontent.com/114660028/233230213-75bb5d14-0a9e-4101-b59a-1db3161fbb80.png)
+<img src="https://user-images.githubusercontent.com/114660028/233230213-75bb5d14-0a9e-4101-b59a-1db3161fbb80.png" width="300" heigth="400">
 <br>
 <b>OUTPUT</b>
 <br>
