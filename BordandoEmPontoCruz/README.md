@@ -1,6 +1,6 @@
-NOME: Bordando em Ponto Cruz
+# Bordando em Ponto Cruz
 <br>
-Dada uma data no seguinte formato "mm.dd.yyyy" e a seguinte formatação de números:
+### Dada uma data no seguinte formato "mm.dd.yyyy" e a seguinte formatação de números:
 
 
 <img src="https://user-images.githubusercontent.com/114660028/232585312-61ddbf54-9991-4cd3-b26f-7b392b2f1eb8.png" width="600" heigth="800">
