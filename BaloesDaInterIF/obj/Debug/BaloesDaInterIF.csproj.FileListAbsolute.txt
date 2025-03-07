@@ -1,8 +1,0 @@
-F:\LPI\--PROVAS--\BaloesDaInterIF\bin\Debug\BaloesDaInterIF.exe.config
-F:\LPI\--PROVAS--\BaloesDaInterIF\bin\Debug\BaloesDaInterIF.exe
-F:\LPI\--PROVAS--\BaloesDaInterIF\bin\Debug\BaloesDaInterIF.pdb
-F:\LPI\--PROVAS--\BaloesDaInterIF\obj\Debug\BaloesDaInterIF.csproj.AssemblyReference.cache
-F:\LPI\--PROVAS--\BaloesDaInterIF\obj\Debug\BaloesDaInterIF.csproj.SuggestedBindingRedirects.cache
-F:\LPI\--PROVAS--\BaloesDaInterIF\obj\Debug\BaloesDaInterIF.csproj.CoreCompileInputs.cache
-F:\LPI\--PROVAS--\BaloesDaInterIF\obj\Debug\BaloesDaInterIF.exe
-F:\LPI\--PROVAS--\BaloesDaInterIF\obj\Debug\BaloesDaInterIF.pdb
