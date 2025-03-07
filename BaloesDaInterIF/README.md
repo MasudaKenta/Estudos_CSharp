@@ -14,6 +14,8 @@
 
 ## Explicação do problema 
 
+      ()
+
 * A primeira flecha estoura o primeiro balão de altura 1, mas não estoura mais nenhum outro, já que não há nenhum balão 1 posição abaixo dele
 
 * O mesmo se segue para os outros, pois a entrada foi uma ordem crescente de números(alturas)
