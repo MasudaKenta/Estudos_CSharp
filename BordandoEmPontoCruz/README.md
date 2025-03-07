@@ -2,14 +2,15 @@
 
 <br>
 
-* Dada uma data no seguinte formato *mm.dd.yyyy*  e a seguinte formatação de números:
+* Dada uma data no seguinte formato **mm.dd.yyyy**  e a seguinte formatação de números:
 
 
 <img src="https://user-images.githubusercontent.com/114660028/232585312-61ddbf54-9991-4cd3-b26f-7b392b2f1eb8.png" width="300" heigth="400">
 
-### Imprima a data com a formatação.
+* Imprima a data com a formatação.
 <br>
-OBS: deve haver dois espaçoes apenas entre os números e pontos, o final de cada linha não deve conter espaços.
+
+**OBS: deve haver dois espaçoes apenas entre os números e pontos, o final de cada linha não deve conter espaços.
 
 INPUT:
 <br>
