@@ -10,7 +10,7 @@
 * Imprima a data com a formatação.
 <br>
 
-**OBS: deve haver dois espaçoes apenas entre os números e pontos, o final de cada linha não deve conter espaços.
+* OBS: deve haver dois espaçoes apenas entre os números e pontos, o final de cada linha não deve conter espaços.
 
 INPUT:
 <br>
