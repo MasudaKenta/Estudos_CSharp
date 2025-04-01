@@ -18,9 +18,11 @@ Após feito o imput da informações, o problema pede como saída, as informaç�
 <br>
 <b>1° CASO: apenas um autor</b>
 <br>
-<b>INPUT:</b>
+
+      <b>INPUT:</b>
 <br>
-Guilherme Kenta Masuda
+
+      Guilherme Kenta Masuda
 <br>
 Matemática
 <br>
